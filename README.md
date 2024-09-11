@@ -50,7 +50,11 @@ In Xcode you need to set these PATHS
 
 7. Then you should be good to go.
 
-<img width="1189" alt="Screenshot 2024-09-11 at 16 19 58" src="https://github.com/user-attachments/assets/87ab0abe-19e1-47af-acb8-e3ab47e8524e">
+<img width="1438" alt="Screenshot 2024-09-11 at 16 24 12" src="https://github.com/user-attachments/assets/7c281ad7-f0c6-44d0-8ca4-89d60e10a71d">
+<img width="1438" alt="Screenshot 2024-09-11 at 16 24 09" src="https://github.com/user-attachments/assets/06a99cff-750b-468d-a31e-f4b643433d46">
+
+<img width="1189" alt="Screenshot 2024-09-11 at 16 21 46" src="https://github.com/user-attachments/assets/31e3cdb4-d84b-4f3e-89da-22b205988fab">
+
 <img width="768" alt="Screenshot 2024-09-11 at 16 19 59" src="https://github.com/user-attachments/assets/14bf69d9-27b6-4c63-860c-dafb0a402a32">
 
 
