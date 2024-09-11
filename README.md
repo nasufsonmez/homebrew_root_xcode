@@ -50,5 +50,9 @@ In Xcode you need to set these PATHS
 
 7. Then you should be good to go.
 
+<img width="1189" alt="Screenshot 2024-09-11 at 16 19 58" src="https://github.com/user-attachments/assets/87ab0abe-19e1-47af-acb8-e3ab47e8524e">
+<img width="768" alt="Screenshot 2024-09-11 at 16 19 59" src="https://github.com/user-attachments/assets/14bf69d9-27b6-4c63-860c-dafb0a402a32">
+
+
 
 
